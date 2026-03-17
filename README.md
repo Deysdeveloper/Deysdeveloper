@@ -109,10 +109,10 @@ An **AI-powered health monitoring system** for real-time vitals tracking and pre
 ## 🤝 Connect With Me
 
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/debojyoti-dey1410/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:debojyotidey14102004@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
