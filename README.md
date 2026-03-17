@@ -1,82 +1,108 @@
-<h1 align="center">Hi 👋, I'm Debojyoti</h1>
+<h1 align="center">Hi 👋, I'm Debojyoti Dey</h1>
 <h3 align="center">🚀 Android Developer | Kotlin | Jetpack Compose | Firebase</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Android+Developer;Jetpack+Compose+Enthusiast;Building+Real+World+Apps+🚀" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Deysdeveloper&label=Visitors&color=blueviolet&style=flat" />
 </p>
 
-
 ---
 
 ## 👨‍💻 About Me
 
-- 📱 Android Developer passionate about building modern apps  
+- 📱 Android Developer passionate about building **real-world apps**
 - ⚡ Skilled in **Kotlin, Jetpack Compose, Firebase**
-- 🧠 Love solving real-world problems with tech  
-- 🚀 Currently working on **AI-powered apps & real-time systems**
-- 🎯 Goal: Become a top Android Engineer & build impactful products  
+- 🧠 Focused on **clean architecture (MVVM)** & scalable apps  
+- 🤖 Exploring **AI + Mobile Apps**
+- 🎯 Goal: Work at a top product-based company  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🚀 Languages & Frameworks
+### 🚀 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=kotlin,java,python" />
 </p>
 
-### 📱 Android Development
+### 📱 Android
 <p>
   <img src="https://skillicons.dev/icons?i=androidstudio,firebase" />
 </p>
 
 - Jetpack Compose  
 - MVVM Architecture  
-- Firebase (Auth, Firestore, Realtime DB)  
 - REST APIs (Retrofit)  
+- Room Database  
+- Firebase (Auth, Firestore, Realtime DB)  
 
 ---
 
-## 🔥 Projects
-
-### 📌 MoodMate – Real-time Mood Sharing App
-- 🧠 Share moods live with users  
-- 🔥 Firebase Realtime Database integration  
-- 🎨 Built with Jetpack Compose  
+## 🚀 Featured Projects
 
 ---
 
-### 📌 AI Health Assistant App
-- 🤖 Predict health issues using AI  
-- ⌚ Integration with wearable devices  
-- 📊 Smart insights & recommendations  
+### 🎤 Daily Voice Journal App
+
+🔗 https://play.google.com/store/apps/details?id=com.Deysdeveloper.dailyvoicejournalapp  
+
+A **minimal offline-first voice journaling app** with zero login and full privacy.
+
+#### ✨ Features
+- 🎙️ One-tap recording  
+- 🌊 Real-time waveform visualization  
+- 📂 Auto-organized notes (Today / Yesterday / Older)  
+- 🎧 Full playback controls  
+- 📤 Share recordings  
+- 🌙 Dark mode  
+
+#### 🧠 Tech
+- Kotlin + Jetpack Compose  
+- Room DB + Local Storage  
+- MediaRecorder & MediaPlayer  
+- MVVM + Repository  
 
 ---
 
-### 📌 Chamberly Chat App
-- 💬 Real-time chat system  
-- ⚡ Optimized message syncing  
-- 🔐 Firebase Authentication  
+### 🏥 Chronic Disease Management App
+
+An **AI-powered health monitoring system** for real-time vitals tracking and prediction.
+
+#### 🚀 Features
+- 📊 Track Heart Rate, BP, SpO₂, Steps  
+- 🔗 Health Connect integration  
+- ☁️ Firebase backend (Auth + Firestore + Realtime DB)  
+- 🤖 ML-based anomaly detection (TensorFlow Lite)  
+- 🚨 Severity alerts with confidence scoring  
+- 👨‍⚕️ Doctor–patient dashboard  
+
+#### 🧠 Highlights
+- Sliding window analysis for early detection  
+- Role-based access system  
+- Live patient monitoring  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Deysdeveloper&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deysdeveloper&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🧠 Currently Learning
 
-- 🧠 Advanced Android Architecture  
-- ☁️ Cloud + Scalable Systems  
-- 🤖 AI Integration in Mobile Apps  
+- ☁️ Cloud & scalable backend systems  
+- 🧠 Advanced Android architecture  
+- 🤖 AI integration in mobile apps  
 
 ---
 
@@ -95,4 +121,4 @@
 
 ## ⚡ Fun Fact
 
-> I build apps that actually solve problems — not just tutorials 😎
+> I build apps that solve real problems — not just tutorial projects 😎
